@@ -1,0 +1,38 @@
+/* internal sử dụng cặp thẻ style viết trong thẻ html
+external tạo một file html 
+inline viết thuộc tính trong dòng */
+h1 {
+    color:pink;
+    font-size: 50px;
+    text-align: center;
+}
+#first{
+    color: rebeccapurple;
+    padding: 20px;
+    border: 10px solid rebeccapurple;
+    width: 150px;
+}
+.one {
+font-size: 30px;
+}
+#second{ 
+    color: red;
+    padding: 20px;
+    border: 10px solid red;
+    width: 150px;
+}
+#mon{
+    color: violet;
+    padding: 20px;
+    border: 10px solid violet;
+    width: 150px;
+}
+#tue{
+    color: greenyellow;
+    padding: 20px;
+    border: 10px solid yellow;
+    width: 150px;
+}
+body{
+background-color: aqua;
+}
